@@ -1,5 +1,7 @@
 # Motorradtour ITA - FRA - MCO
 
+🡹🡻🡺🡸
+
 <details>
 
 <summary><b>Tag 0: Start in Borgosesia</b></summary>
@@ -11,6 +13,16 @@ Unterkunft noch suchen
 <details>
 
 <summary><b>Tag 1: Borgosesia - Landry</b></summary>
+
+### Stats
+
+* 307km
+* 6h 23min
+* 🡹 12526m 🡻 12143m
+
+### Route
+
+![GPX](assets/1.%20Borgosesia%20-%20Landry.gpx)
 
 ![Von Borgosesia nach Landry](assets/borgosesia_landry.png)
 
