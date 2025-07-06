@@ -97,7 +97,7 @@ Mit Halt in Monaco
 
 <details>
 
-<summary><b>Tag 4: Saint-Étienne-de-Tinée - Savines-le-Lac</b></summary>
+<summary><b>Tag 4: Saint-Étienne-de-Tinée - Savines-le-Lac 16.08.25</b></summary>
 
 Höchster durchgehender, asphaltierter Alpenpass Europas
 
@@ -115,7 +115,7 @@ Höchster durchgehender, asphaltierter Alpenpass Europas
 
 ### Unterkunft
 
-[Camping à Savines-le-Lac](https://www.hotel-les-sources.com/fr/camping-savines-lac)
+[Camping à Savines-le-Lac](https://www.hotel-les-sources.com/fr/camping-savines-lac) (nicht reservierbar)
 
 | Adresse     | Kontakt |
 | ----------- | ------- |
@@ -126,7 +126,7 @@ Höchster durchgehender, asphaltierter Alpenpass Europas
 
 <details>
 
-<summary><b>Tag 5: Savines-le-lac - Sevrier</b></summary>
+<summary><b>Tag 5: Savines-le-lac - Sevrier 17.08.25</b></summary>
 
 ### Stats
 
@@ -142,7 +142,7 @@ Höchster durchgehender, asphaltierter Alpenpass Europas
 
 ### Unterkunft
 
-[Camping au Cœur du Lac](https://www.camping-annecy-sevrier.fr/)
+[Camping au Cœur du Lac](https://www.camping-annecy-sevrier.fr/) (buecht und zahlt)
 
 | Adresse     | Kontakt |
 | ----------- | ------- |
@@ -153,7 +153,7 @@ Höchster durchgehender, asphaltierter Alpenpass Europas
 
 <details>
 
-<summary><b>Tag 6: Sevrier - Bulle</b></summary>
+<summary><b>Tag 6: Sevrier - Bulle 18.08.25</b></summary>
 
 ### Stats
 
