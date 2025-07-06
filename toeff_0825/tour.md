@@ -4,15 +4,14 @@
 
 <details>
 
-<summary><b>Tag 0: Start in Borgosesia</b></summary>
+<summary><b>Tag 0: Start in Borgosesia 12.08.25</b></summary>
 
-Unterkunft noch suchen
-
+[Camping Orta](https://www.campingorta.it/de/) (angefragt)
 </details>
 
 <details>
 
-<summary><b>Tag 1: Borgosesia - Landry</b></summary>
+<summary><b>Tag 1: Borgosesia - Landry 13.08.25</b></summary>
 
 ### Stats
 
@@ -27,7 +26,7 @@ Unterkunft noch suchen
 ![Von Borgosesia nach Landry](assets/borgosesia_landry.png)
 
 ### Unterkunft
-[Camping Eden de la Vanoise](https://www.camping-eden-savoie.com/de/camping-sommerberg/)
+[Camping Eden de la Vanoise](https://www.camping-eden-savoie.com/de/camping-sommerberg/) (Gebucht und bezahlt)
 
 
 | Adresse                                                           | Kontakt                      |
@@ -41,7 +40,7 @@ Unterkunft noch suchen
 
 <details>
 
-<summary><b>Tag 2: Landry - Borgo San Dalmazzo (eigentlich Cuneo)</b></summary>
+<summary><b>Tag 2: Landry - Borgo San Dalmazzo (eigentlich Cuneo) 14.08.25</b></summary>
 
 ### Stats
 
@@ -57,7 +56,7 @@ Unterkunft noch suchen
 
 ### Unterkunft
 
-[Campeggio Bisalta](https://www.cuneocamp.it/en/)
+[Campeggio Bisalta](https://www.cuneocamp.it/en/) (nicht buchbar?)
 
 | Adresse                                                           | Kontakt                        |
 | ----------------------------------------------------------------- | ------------------------------ |
@@ -68,7 +67,7 @@ Unterkunft noch suchen
 
 <details>
 
-<summary><b>Tag 3: Borgo San Dalmazzo - Saint-Étienne-de-Tinée</b></summary>
+<summary><b>Tag 3: Borgo San Dalmazzo - Saint-Étienne-de-Tinée 15.08.25</b></summary>
 
 Mit Halt in Monaco
 
@@ -86,7 +85,7 @@ Mit Halt in Monaco
 
 ### Unterkunft
 
-[Camping du plan d'eau](https://campingduplandeau.com/)
+[Camping du plan d'eau](https://campingduplandeau.com/) (buecht und zahlt)
 
 | Adresse     | Kontakt |
 | ----------- | ------- |
