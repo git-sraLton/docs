@@ -85,13 +85,12 @@ Mit Halt in Monaco
 
 ### Unterkunft
 
-[Camping du plan d'eau](https://campingduplandeau.com/) (buecht und zahlt)
+[Camping du plan d'eau](https://campingduplandeau.com/) (buecht und zahlt, wc papier mitbringen)
 
 | Adresse     | Kontakt |
 | ----------- | ------- |
 | [Cartel](https://maps.app.goo.gl/afqh965Li4bKvABV7) | Tel: 04.93.02.41.57   |
 | 06660 Saint-Étienne-de-Tinée     | Mail:   |
-
 
 </details>
 
