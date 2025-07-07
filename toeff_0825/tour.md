@@ -7,6 +7,12 @@
 <summary><b>Tag 0: Start in Borgosesia 12.08.25</b></summary>
 
 [Camping Orta](https://www.campingorta.it/de/) (angefragt)
+
+| Adresse                                                           | Kontakt                      |
+| ----------------------------------------------------------------- | ---------------------------- |
+| [Via Domodossola, 28](https://maps.app.goo.gl/VLx4Xo7qDvQo6Wra8) | Tel: +39 0322 90267       |
+| 28016 Orta San Giulio                                                      | Mail: info@campingorta.it |
+
 </details>
 
 <details>
@@ -85,7 +91,7 @@ Mit Halt in Monaco
 
 ### Unterkunft
 
-[Camping du plan d'eau](https://campingduplandeau.com/) (buecht und zahlt, wc papier mitbringen)
+[Camping du plan d'eau](https://campingduplandeau.com/) (buecht und angezahlt, wc papier mitbringen)
 
 | Adresse     | Kontakt |
 | ----------- | ------- |
