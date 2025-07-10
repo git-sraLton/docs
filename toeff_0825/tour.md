@@ -6,7 +6,7 @@
 
 <summary><b>Tag 0: Start in Borgosesia 12.08.25</b></summary>
 
-[Camping Orta](https://www.campingorta.it/de/) (angefragt)
+[Camping Orta](https://www.campingorta.it/de/) (nicht buchbar)
 
 | Adresse                                                           | Kontakt                      |
 | ----------------------------------------------------------------- | ---------------------------- |
